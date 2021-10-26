@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m @AlejandroBleu a.k.a. Torfer .'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      ## Im proud of going pro learning new skills, and share the things that  I
+      love with everyone. Hope you enjoy this site. for feedback contact me
+      @alejandroblue.
     actions:
       - label: Let's talk
         url: /contact
