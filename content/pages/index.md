@@ -16,7 +16,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
+    title: Say my Brand 2.0
     subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
