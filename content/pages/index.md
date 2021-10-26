@@ -10,7 +10,7 @@ sections:
       love with everyone. Hope you enjoy this site. for feedback contact me
       @alejandroblue.
     actions:
-      - label: Let's talk
+      - label: 'Let''s '
         url: /contact
         style: button
   - section_id: latest-projects
